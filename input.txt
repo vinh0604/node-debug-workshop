@@ -1,0 +1,2 @@
+Google
+http://localhost:3000/api/supermarket/nearby?lat=1.277160&long=103.796989
