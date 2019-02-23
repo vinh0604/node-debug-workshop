@@ -1,0 +1,9 @@
+Cmd/Ctrl + Shift + P => type integrated => Open integrated terminal
+
+npm init => keep enter
+
+npm install --save express
+
+node index.js
+
+Ctrl + C => terminate the running web
